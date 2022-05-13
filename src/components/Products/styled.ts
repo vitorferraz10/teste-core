@@ -39,7 +39,7 @@ export const ProductsBlocks = styled.div`
     display: flex;
     flex-direction: row;
     gap: 20px;
-
+    justify-content: flex-start !important;
     overflow-x: scroll;
 
     &&::-webkit-scrollbar {
