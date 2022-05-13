@@ -14,7 +14,7 @@ export function Footer() {
             <br />
             <a href="tel:+551130901039"> +55 11 3890 1039</a>
          </S.AddressSection>
-         <section className="contact">
+         <section>
             <S.List>
                <li>
                   <img src={emailIcon} alt="icon-msg" />

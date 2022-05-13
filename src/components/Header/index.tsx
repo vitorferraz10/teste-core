@@ -17,7 +17,7 @@ export function Header() {
   return (
     <S.MainHeader>
       <S.Container>
-        <S.MenuMob><List size="35"/></S.MenuMob>
+        <S.MenuMob><List size="35" /></S.MenuMob>
         <S.Column1>
           <S.MainLogo src={logo} className="mainLogo" alt="logo" />
         </S.Column1>

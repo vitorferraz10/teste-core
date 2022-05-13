@@ -58,7 +58,7 @@ export function Newsletter() {
       <S.NewsletterComponent>
          <S.Container>
             <S.Title>Paticipe de nossas news com promoções e novidades!</S.Title>
-            <S.Form onSubmit={(ev:any) => submitForm(ev)} ref={form}>
+            <S.Form onSubmit={(ev: any) => submitForm(ev)} ref={form}>
                <S.ColAuto>
                   <S.Input name="name" type="text" placeholder="Digite seu nome" required />
                </S.ColAuto>
@@ -66,18 +66,18 @@ export function Newsletter() {
                   <S.Input name="email" type="Email" placeholder="Digite seu email" required />
                </S.ColAuto>
                <S.ColAuto>
-                  <S.Button type="submit" className="btn">Eu quero!</S.Button>
+                  <S.Button type="submit">Eu quero!</S.Button>
                </S.ColAuto>
             </S.Form>
 
-            <div className="success" ref={success} style={{ display: 'none' }}>
+            <div ref={success} style={{ display: 'none' }}>
                <p>
                   Seu e-mail foi cadastrado com sucesso!
                </p>
                <p>
                   A partir de agora você receberá as novidade e ofertas exclusivas.
                </p>
-               <button className="btn" onClick={() => backToForm()}>
+               <button onClick={() => backToForm()}>
                   Cadastrar novo email
                </button>
             </div>
