@@ -1,11 +1,9 @@
-// import searchIcon from '../../assets/icons/search.svg';
-// import userIcon from '../../assets/icons/user.svg';
-// import cartIcon from '../../assets/icons/cart.svg';
+
 import { useState, useEffect } from "react";
 import * as S from "./styled"
 import { getProducts } from '../../services/product';
 import { Star as StarIcon } from "phosphor-react";
-import Slider from "react-slick";
+
 
 type ProducType = {
   productId: number
