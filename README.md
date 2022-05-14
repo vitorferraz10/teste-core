@@ -24,6 +24,7 @@
 
 <h3>Para rodar o projeto, basta:</>
   </br>
+  
 <ul>
   <li>Ter o NODE instalado em sua maquina</li>
   <li>Ter o GIT instalado em sua maquina</li>
