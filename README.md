@@ -4,9 +4,14 @@
 ### TÍTULO 
 <h1 align="center">Home Page Loja Ecommerce</h1>
 </br>
+
 ### DESCRIÇÃO DO PROJETO
-<p>Projeto criado com base em lojas ecommerce. O intuito do projeto é utilizar alguns métodos http como GET (vitrine de produto E POST(newslleter) utilizando TYPESCRIPT, REACT, STYLED-COMPONENTS E BOAS PRÁTICAS</p>
+<p>Projeto simples, criado com base em lojas ecommerce. O intuito do projeto é utilizar alguns métodos http como GET (vitrine de produto E POST(newslleter) utilizando TYPESCRIPT, REACT, STYLED-COMPONENTS E BOAS PRÁTICAS</p>
 
 ### Features
 
 - [x] Cadastro de usuário para a newslleter
+
+
+### HOSPEDAGEM DO SITE
+<a href="https://teste-core.vercel.app/">Site hospedado na Vercel</a>
