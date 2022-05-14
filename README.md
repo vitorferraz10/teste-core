@@ -6,7 +6,7 @@
 </br>
 
 ### DESCRIÇÃO DO PROJETO
-<p>Projeto simples, criado com base em lojas ecommerce. O intuito do projeto é utilizar alguns métodos http como GET (vitrine de produto E POST(newslleter) utilizando TYPESCRIPT, REACT, STYLED-COMPONENTS E BOAS PRÁTICAS</p>
+<p>Projeto simples, criado com base em lojas ecommerce. O intuito do projeto é utilizar alguns métodos http como GET (vitrine de produto) E POST(newslleter) utilizando TYPESCRIPT, REACT, STYLED-COMPONENTS E BOAS PRÁTICAS</p>
   </br>
 ### Features
 
